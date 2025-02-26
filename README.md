@@ -8,6 +8,6 @@ Welcome to my coding haven! 👨‍💻
 - 🌱 Always learning and exploring new possibilities in PHP development.
 - 💻 Check out my portfolio at [khairulimran.com](https://khairulimran.com).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78918&random=true&width=435&lines=I%E2%80%99m+passionate+about+programming;I%E2%80%99m+focused+on+WordPress+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78918&random=true&width=435&lines=I%E2%80%99m+passionate+about+programming;I%E2%80%99m+focused+on+Laravel+development)](https://git.io/typing-svg)
 
 Feel free to explore my [GitHub repositories](https://github.com/khairulimran-97) and dive into the coding adventure!
